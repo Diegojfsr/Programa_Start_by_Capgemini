@@ -27,6 +27,17 @@
      <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Logica%20de%20Programacao%20e%20Algoritmos%20I"> Acessar </a>
    </li>
 
-   
-
  </ul>
+
+
+
+<p dir="auto">
+<em>
+ 🔶 Página oficial do curso, grade das aulas e materiais extras: 
+  <a href="http://capgeminischool.brazilsouth.cloudapp.azure.com/my/"> <strong>  StartByCapgemini💙  </strong></a>
+</em>
+</p>
+
+
+
+
