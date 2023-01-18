@@ -15,6 +15,7 @@
    <li> Boas Vindas. <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Boas%20Vindas"> Acessar </a></li>
    <li> Perguntas Frequentes. <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Perguntas%20Frequentes"> Acessar </a></li>
    <li> Introdução a Lógica de Programação. <a href="https://github.com/Diegojfsr/Introducao_Logica_Programacao"> Acessar </a></li>
+   <li> Lógica de Programação e Algoritmos I. <a href=" "> Acessar </a></li>
 
    
 
