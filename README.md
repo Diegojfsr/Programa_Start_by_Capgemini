@@ -12,7 +12,7 @@
 <h2 dir="auto"> 🚦 Guia </h2>
  <ul dir="auto">
  
-   <li> Boas Vindas. <a href="https://"> Acessar </a></li>
+   <li> Boas Vindas. <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Boas%20Vindas"> Acessar </a></li>
    <li> Perguntas Frequentes. <a href="https://www.notion.so/diegojfsr/Perguntas-Frequentes-a91726a692154045af4c1a3434a72d39"> Acessar </a></li>
    <li> Introdução a Lógica de Programação. <a href="https://github.com/Diegojfsr/Introducao_Logica_Programacao"> Acessar </a></li>
 
