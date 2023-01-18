@@ -12,11 +12,20 @@
 <h2 dir="auto"> 🚦 Guia </h2>
  <ul dir="auto">
  
-   <li> Boas Vindas. <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Boas%20Vindas"> Acessar </a></li>
-   <li> Perguntas Frequentes. <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Perguntas%20Frequentes"> Acessar </a></li>
-   <li> Introdução a Lógica de Programação. <a href="https://github.com/Diegojfsr/Introducao_Logica_Programacao"> Acessar </a></li>
-   <li> Lógica de Programação e Algoritmos I. 
-   <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Logica%20de%20Programacao%20e%20Algoritmos%20I"> Acessar </a></li>
+   <li> 
+     Boas Vindas. <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Boas%20Vindas"> Acessar </a>
+   </li>
+   <li> 
+     Perguntas Frequentes. <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Perguntas%20Frequentes"> Acessar </a>
+   </li>
+   <li> 
+     Introdução a Lógica de Programação. 
+     <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Introducao%20a%20Logica%20de%20Programacao"> Acessar </a>
+   </li>
+   <li>
+     Lógica de Programação e Algoritmos I. 
+     <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Logica%20de%20Programacao%20e%20Algoritmos%20I"> Acessar </a>
+   </li>
 
    
 
