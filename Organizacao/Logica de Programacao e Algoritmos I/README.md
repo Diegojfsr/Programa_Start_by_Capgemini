@@ -11,6 +11,10 @@ oferecerão a chance de conquistar uma vaga e trabalhar no time Capgemini!
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
- <li> Aula 01 - Boas vindas. <a href="https://"> Acessar </a></li>
+ <li> Aula 1.A - Introdução. <a href="https://"> Acessar </a></li>
+ <li> Aula 1.B - Introdução. <a href="https://"> Acessar </a></li>
+ <li> Aula 1.C - Introdução. <a href="https://"> Acessar </a></li>
+ <li> Aula 1.D - Introdução. <a href="https://"> Acessar </a></li>
+ <li> Aula 1.E - Introdução. <a href="https://"> Acessar </a></li>
 
 </ul>
