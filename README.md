@@ -28,8 +28,36 @@
      Lógica de Programação e Algoritmos I. 
      <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Logica%20de%20Programacao%20e%20Algoritmos%20I"> Acessar </a>
    </li>
-
  </ul>
+ 
+ 
+<h2 dir="auto"> 📝 Lista de Atividades </h2>
+Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
+As atividades estão separadas por Módulos.
+<ul dir="auto">
+  <li>📝 Atividade I.<a href="https://"> Acessar </a></li>
+</ul>
+
+
+
+<h2 dir="auto"> 🚩 Lista de Projetos  </h2>
+Esta área é reservada para os projetos desenvolvidos por mim no dia a dia, durante toda a jornada.
+<ul dir="auto">
+  <li> 🚩 Projeto I.<a href="https://"> Acessar </a></li>
+</ul>
+
+
+
+<h2 dir="auto"> 🤝 Contribuindo </h2>
+<p dir="auto">
+ Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+</p>
+
+ 
+ 
+ 
+ 
  
  <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
