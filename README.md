@@ -1,6 +1,10 @@
 <h1> Sejam bem-vindos!!! </br>
  Esse é o meu repositorio de projetos e codigos do Programa Start by Capgemini. </h1>
 
+<h4> Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pela Capgemini. </h4>
+
+![](https://github.com/Diegojfsr/GFT_Start/blob/main/Imagens/Start%20GFT.jpg)
+
 
 <h2> 🎯 Objetivo </h2>
 
