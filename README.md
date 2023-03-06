@@ -39,7 +39,6 @@ As atividades estão separadas por Módulos.
 </ul>
 
 
-
 <h2 dir="auto"> 🚩 Lista de Projetos  </h2>
 Esta área é reservada para os projetos desenvolvidos por mim no dia a dia, durante toda a jornada.
 <ul dir="auto">
