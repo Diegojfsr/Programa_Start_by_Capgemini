@@ -31,7 +31,6 @@
    </li>
  </ul>
  
- 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
 Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
 As atividades estão separadas por Módulos.
