@@ -16,5 +16,7 @@ oferecerão a chance de conquistar uma vaga e trabalhar no time Capgemini!
  <li> Aula 1.C - Introdução. <a href="https://"> Acessar </a></li>
  <li> Aula 1.D - Introdução. <a href="https://"> Acessar </a></li>
  <li> Aula 1.E - Introdução. <a href="https://"> Acessar </a></li>
+ 
+  <li> Aula 2.A - Trabalhando com Tipos. <a href="https://"> Acessar </a></li>
 
 </ul>
