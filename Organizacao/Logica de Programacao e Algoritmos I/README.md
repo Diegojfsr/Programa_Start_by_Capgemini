@@ -26,5 +26,6 @@ oferecerão a chance de conquistar uma vaga e trabalhar no time Capgemini!
  <li> Aula 2.G - Trabalhando com Tipos. <a href="https://"> Acessar </a></li>
  <li> Aula 2.H - Trabalhando com Tipos. <a href="https://"> Acessar </a></li>
  <li> Aula 2.I - Trabalhando com Tipos. <a href="https://"> Acessar </a></li>
+ <li> Aula 2.J - Trabalhando com Tipos. <a href="https://"> Acessar </a></li>
 
 </ul>
