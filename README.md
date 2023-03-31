@@ -26,7 +26,7 @@
    </li>
    <li>
      Lógica de Programação e Algoritmos I. 
-     <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini/tree/main/Organizacao/Logica%20de%20Programacao%20e%20Algoritmos%20I"> Acessar </a>
+     <a href="https://www.notion.so/diegojfsr/L-gica-de-Programa-o-e-Algoritmos-I-89e79cfd71684ac89b190030d7988bf2"> Acessar </a>
    </li>
  </ul>
  
