@@ -26,7 +26,7 @@
    </li>
    <li>
      Lógica de Programação e Algoritmos I. 
-     <a href="https://www.notion.so/diegojfsr/L-gica-de-Programa-o-e-Algoritmos-I-89e79cfd71684ac89b190030d7988bf2"> Acessar </a>
+     <a href="https://www.notion.so/diegojfsr/L-gica-de-Programa-o-e-AlgoritmosI-89e79cfd71684ac89b190030d7988bf2"> Acessar </a>
    </li>
  </ul>
  
